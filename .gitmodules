@@ -1,0 +1,3 @@
+[submodule "SeqAnHTS"]
+	path = SeqAnHTS
+	url = https://github.com/DecodeGenetics/SeqAnHTS.git
